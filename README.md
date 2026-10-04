@@ -61,3 +61,8 @@ This repository contains only public guidance and checklist illustrations; it do
 ![Checklist illustration](assets/digital-kit-files.png)
 
 See the [official free guides](https://double-joy-wedding.dapper-kiwi-8512.chatgpt.site/) and actual product samples before buying. No sales or printing results are claimed.
+
+## Free proofing forms
+
+- [Bilingual PDF proofing log](guides/free-bilingual-pdf-proofing-log.md)
+- [Bilingual wedding PDF printer handoff](guides/bilingual-wedding-pdf-printer-handoff.md)
