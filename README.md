@@ -62,6 +62,12 @@ This repository contains only public guidance and checklist illustrations; it do
 
 See the [official free guides](https://double-joy-wedding.dapper-kiwi-8512.chatgpt.site/) and actual product samples before buying. No sales or printing results are claimed.
 
+## Choose a guide for your next step
+
+- [Browse the free stationery worksheet index](guides/free-bilingual-wedding-resources.md) for card recipients, wording, dates and venues.
+- [Decide whether you need a static invitation PDF or an online RSVP website](https://telegra.ph/Chinese-English-wedding-invitations-do-you-need-a-printable-PDF-or-an-RSVP-website-10-09).
+- [Check the actual PDF received through a messaging app](guides/received-pdf-delivery-checklist.md) before sending the invitation to guests.
+
 ## Free proofing forms
 
 - [Bilingual PDF proofing log](guides/free-bilingual-pdf-proofing-log.md)
