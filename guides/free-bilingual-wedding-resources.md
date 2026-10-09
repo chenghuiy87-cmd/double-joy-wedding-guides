@@ -36,6 +36,14 @@ One record holds the address, building, room, guest entrance and directions refe
 
 An old/new fact table and bilingual correction message distinguish revised files from actual guest communication.
 
+## [Choose a printable PDF or an online RSVP website](https://telegra.ph/Chinese-English-wedding-invitations-do-you-need-a-printable-PDF-or-an-RSVP-website-10-09)
+
+Five purchase questions separate reading or printing a card from collecting guest responses.
+
+## [Check the copy that actually arrived](received-pdf-delivery-checklist.md)
+
+A private delivery checklist separates the editable source, approved PDF and received attachment, so page count, readability and reply instructions are verified after sending.
+
 ## When the editable kit fits
 
 Disclosure: I make and sell Double Joy. The v4 download costs USD12 before tax and includes invitation, details and tea ceremony card types. Its verified editing workflow is an offline HTML kit in desktop Chrome on macOS, with manual Save/Open JSON drafts and static 5x7-inch PDF export. Windows and mobile editing have not been established.
